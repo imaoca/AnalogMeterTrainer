@@ -5,3 +5,4 @@ Connect pin 6 of the Arduino to the analog meter with a variable resistor. Adjus
 
 ![](P_20220522_094404.jpg)
 
+https://youtu.be/dwFAZqUQ1yQ
